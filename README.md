@@ -2,11 +2,11 @@
 # HELLO, FOLKS 👋
 ![](https://komarev.com/ghpvc/?username=Keerthana2M&color=brightgreen&styl=plastic)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👋 Hi, I’m @Keerthana2M
-- 👀 I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
-- ⏰I’m currently learning BE in computer science 
-- 👁  I’m looking to collaborate on ....
-- 📧 keerthanakeerthi17609@gmail.com
+      - 👋 Hi, I’m @Keerthana2M
+      - 👀 I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
+https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true      - ⏰I’m currently learning BE in computer science 
+      - 👁  I’m looking to collaborate on ....
+      - 📧 keerthanakeerthi17609@gmail.com
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages and Tools:
 
