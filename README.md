@@ -1,7 +1,5 @@
-!---
-##my status
---->
-# HELLO, FOLKS ????
+
+# HELLO, FOLKS 👋
 ![](https://komarev.com/ghpvc/?username=Keerthana2M&color=brightgreen&styl=plastic)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 - ???? Hi, I’m @Keerthana2M
