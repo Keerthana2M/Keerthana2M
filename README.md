@@ -27,8 +27,8 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana2M&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_public=true" /><br/><br/><br/><br/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana2M&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
 
 
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=Keerthana2M &rank=AA,B,AAA,A,C&theme=onedark&count_public=true" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=Keerthana2M &rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
