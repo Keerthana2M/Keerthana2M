@@ -31,4 +31,4 @@
 
 
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=Keerthana2M &rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthana2m" alt="keerthana2m" /></a> </p>
