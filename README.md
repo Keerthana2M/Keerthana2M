@@ -24,6 +24,3 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana2M&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthana2m" alt="keerthana2m" /></a> </p>
