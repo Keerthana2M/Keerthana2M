@@ -24,9 +24,6 @@
 ### Github Stats:
 <img src="https://camo.githubusercontent.com/74e59ec7120cc3a9956af86ded083ede2aed93269929ffc490425dfad6007c12/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36642f38302f32662f36643830326666643134623332373935623464656230623838366137383135612e676966">
 
-
-<img alt="Keerthana2M's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Keerthana2M &theme=react-dark&area=true" width="100%">
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana2M&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
