@@ -17,11 +17,7 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 <img src="https://user-images.githubusercontent.com/6463980/28998869-97bca9dc-7a03-11e7-8a95-3bbe9c1f7926.png" title="KOTLIN" alt="KOTLIN" width="40" height="40"/> 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Keerthana2M&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=Keerthana2M&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Github Stats:
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://camo.githubusercontent.com/74e59ec7120cc3a9956af86ded083ede2aed93269929ffc490425dfad6007c12/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36642f38302f32662f36643830326666643134623332373935623464656230623838366137383135612e676966">
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
